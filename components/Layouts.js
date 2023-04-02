@@ -29,7 +29,7 @@ const  Layouts = ({children}) => {
       <>
        <Navbar />
    
-      <main className="container py-4">
+      <main className="container py-5">
           {children}     
       </main>
 
